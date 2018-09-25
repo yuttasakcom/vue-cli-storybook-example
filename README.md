@@ -1,26 +1,8 @@
-# vue-cli-storybook-example
+# Vue-cli Storybook Example
 
 ## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+```bash
+$ vue create vue-cli-storybook-example
+$ vue add storybook
+$ yarn serve:storybook
 ```
